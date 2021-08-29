@@ -1,4 +1,4 @@
-package awsImpl
+package azureImpl
 
 import (
 	"context"
